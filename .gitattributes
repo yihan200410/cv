@@ -1,1 +1,1 @@
-car_paint_defect_analysis filter=lfs diff=lfs merge=lfs -text
+car_paint_defect_analysis/** filter=lfs diff=lfs merge=lfs -text
